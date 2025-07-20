@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Madhu Sree T | Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      scroll-behavior: smooth;
+      background: #f0f0f0;
+      color: #333;
+    }
+
+    header {
+      background-color: #222;
+      color: white;
+      padding: 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 2rem;
+      border-bottom: 1px solid #ccc;
+    }
+
+    h2 {
+      color: #007bff;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    a {
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Madhu Sree T</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#education">Education</a>
+      <a href="#skills">Skills</a>
+      <a href="#internships">Internships</a>
+      <a href="#projects">Projects</a>
+      <a href="#certifications">Certifications</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am a passionate and dedicated individual currently building my skills in web development, with a strong foundation in HTML, CSS, and JavaScript. I enjoy creating clean, responsive websites and user-friendly interfaces. As a quick learner, I am constantly exploring new tools and technologies to improve my abilities. I believe in hard work, creativity, and continuous learning. I am eager to contribute to real-world projects, collaborate with teams, and grow professionally in a dynamic environment.</p>
+  </section>
+
+
+  <section id="education">
+    <h2>Education</h2>
+    <p>B.Tech in Artificial Intelligence and Data Science [2024–2028]<br>Chennai Institute of Technology</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <p><strong>Languages:</strong> C++, Python, Java</p>
+    <p><strong>Web Development:</strong> HTML, CSS, JavaScript</p>
+    <p><strong>Tools & Platforms:</strong> GitHub, LinkedIn, Cisco Netacad</p>
+    <p><strong>Cybersecurity:</strong> Network Security, Threat Analysis, Cloud Analysis</p>
+  </section>
+
+  <section id="internships">
+    <h2>Internship Experience</h2>
+    <ul>
+      <li><strong>Web Development Intern</strong> at Cognitive Technologies (June 2025 – Present)<br>
+        - Collaborating on front-end and back-end development<br>
+        - Building scalable web solutions with good UX</li>
+      <li><strong>Frontend Development Intern</strong> at CodeAlpha (July 2025 – Present)<br>
+        - Enhancing frontend skills with real projects</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>StudyBuddy</strong>  
+        (<a href="https://madhu-03103.github.io/exam-planner/" target="_blank">Link</a>)<br>
+        Smart Study Planner built with HTML, CSS, JS</li>
+      <li><strong>Exam Countdown & Notepad</strong>  
+        (<a href="https://madhu-03103.github.io/StudyBuddy/" target="_blank">Link</a>)<br>
+        Helps track exams, goals, notes — HTML, CSS, JS</li>
+    </ul>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Cybersecurity analyst job simulation – TATA</li>
+      <li>Career essentials in data analysis – LinkedIn, Microsoft</li>
+      <li>SQL basics – LeetCode</li>
+      <li>Data analyst job simulation – Forage</li>
+      <li>Learning data analytics – LinkedIn</li>
+      <li>Introduction to Data Science – Cisco</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: madhusree03311@gmail.com</p>
+    <p>GitHub: <a href="https://github.com/madhu-03103" target="_blank">madhu-03103</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/madhu-sree" target="_blank">linkedin.com/in/madhu-sree</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Madhu Sree T | All rights reserved.</p>
+  </footer>
+
+  <script>
+    console.log("Madhu's Portfolio Loaded");
+  </script>
+</body>
+</html>
